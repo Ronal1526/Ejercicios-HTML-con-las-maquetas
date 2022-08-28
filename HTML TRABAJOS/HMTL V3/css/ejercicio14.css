@@ -1,0 +1,15 @@
+.ejer14{
+    color: green;
+    font-size: 30px;
+}
+    
+#container{
+        width: 800px;
+        height: 950px;
+        color:white;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: green;
+}
+

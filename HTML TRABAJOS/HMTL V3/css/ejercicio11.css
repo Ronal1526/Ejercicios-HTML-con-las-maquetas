@@ -1,0 +1,13 @@
+#ejer11 {
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+#container{
+    width: 800px;
+    height: 950px;
+    color:black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(128, 252, 138);
+}

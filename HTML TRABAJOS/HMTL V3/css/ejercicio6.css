@@ -1,0 +1,18 @@
+#container{
+    width: 800px;
+    height: 950px;
+    color:rgb(255, 255, 255);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 0, 0);
+}
+.ejer6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    width: 350px;
+    height: 150px;
+    color: green;
+    margin-left: auto;
+    margin-right: auto;
+}
