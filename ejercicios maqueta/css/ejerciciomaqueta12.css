@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 800px;
+    height: 550px;
+    background-color: burlywood;
+    margin: auto;
+}
+#header{
+    width: 800px;
+    height: 100px;
+    background-color:rgba(31, 153, 137, 0.308) ;
+}
+#enc{
+    position: relative;
+    text-align: center;
+    top: 40px;
+    font-family: fantasy;
+    font-size: 30px;
+    color:rgba(98, 129, 134, 0.89);
+}
+#nav{
+    width: 800px;
+    height: 40px;
+    background-color: rgba(150, 190, 165, 0.219);
+}
+#men{
+    position: relative;
+    text-align: center;
+    top: 0px;
+    font-family: fantasy;
+    font-size: 30px;
+    color: rgba(155, 11, 11, 0.459);
+}
+#main{
+    margin: auto;
+    width: 800px;
+    height: 400px;
+    background-color: rgb(192, 141, 165);
+    margin-top: 0px;
+}
+#cuer{
+    position: relative;
+    text-align: center;
+    top: 200px;
+    font-family: fantasy;
+    font-size: 20px;
+    color: rgb(114, 80, 80);
+}
+#footer{
+    float:left;
+    width: 800px;
+    height: 50px;
+    background-color:rgba(183, 255, 215, 0.562);
+    margin-top: 0;
+}
+#pie{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    font-family: fantasy;
+    font-size: 20px;
+    color: rgba(230, 157, 220, 0.144);
+}
+#pie2{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    font-family: fantasy;
+    font-size: 10px;
+    color: rgba(193, 134, 248, 0.356);
+}
+#img{
+    position: relative;
+    left: 700px;
+    top: -25px;
+}
+ 

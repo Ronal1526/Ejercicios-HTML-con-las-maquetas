@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 800px;
+    height: 550px;
+    background-color: burlywood;
+    margin: auto;
+}
+#header{
+    width: 800px;
+    height: 100px;
+    background-color:rgb(158, 250, 215) ;
+}
+#enc{
+    position: relative;
+    text-align: center;
+    top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:rgb(0, 119, 36);
+}
+#nav{
+    width: 800px;
+    height: 40px;
+    background-color: rgb(255, 226, 182);
+}
+#men{
+    position: relative;
+    text-align: center;
+    top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(94, 23, 23);
+}
+#main{
+    margin: auto;
+    width: 800px;
+    height: 400px;
+    background-color: rgb(248, 112, 0);
+    margin-top: 0px;
+}
+#cuer{
+    position: relative;
+    text-align: center;
+    top: 200px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(126, 49, 49);
+}
+#footer{
+    float:left;
+    width: 800px;
+    height: 50px;
+    background-color:rgb(0, 195, 255);
+    margin-top: 0;
+}
+#pie{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(39, 78, 78);
+}
+#pie2{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: rgb(111, 138, 136);
+}
+#img{
+    position: relative;
+    left: 700px;
+    top: -25px;
+}
+ 

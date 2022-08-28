@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 800px;
+    height: 550px;
+    background-color: burlywood;
+    margin: auto;
+}
+#header{
+    width: 800px;
+    height: 100px;
+    background-color:rgb(91, 247, 130) ;
+}
+#enc{
+    position: relative;
+    text-align: center;
+    top: 40px;
+    font-family: monospace;
+    font-size: 30px;
+    color:rgb(245, 57, 57);
+}
+#nav{
+    width: 800px;
+    height: 40px;
+    background-color: rgb(97, 11, 167);
+}
+#men{
+    position: relative;
+    text-align: center;
+    top: 0px;
+    font-family: monospace;
+    font-size: 30px;
+    color: rgb(65, 131, 253);
+}
+#main{
+    margin: auto;
+    width: 800px;
+    height: 400px;
+    background-color: rgb(175, 250, 255);
+    margin-top: 0px;
+}
+#cuer{
+    position: relative;
+    text-align: center;
+    top: 200px;
+    font-family: monospace;
+    font-size: 20px;
+    color: rgb(248, 0, 0);
+}
+#footer{
+    float:left;
+    width: 800px;
+    height: 50px;
+    background-color:rgb(158, 208, 255);
+    margin-top: 0;
+}
+#pie{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    font-family: monospace;
+    font-size: 20px;
+    color: rgb(19, 51, 77);
+}
+#pie2{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    font-family: monospace;
+    font-size: 10px;
+    color: rgb(37, 60, 70);
+}
+#img{
+    position: relative;
+    left: 700px;
+    top: -25px;
+}
